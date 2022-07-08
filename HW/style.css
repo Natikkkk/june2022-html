@@ -1,0 +1,33 @@
+.father {
+    color: white;
+    font-size: 20px;
+    width: 400px;
+    text-align: center;
+}
+
+.head{
+    background-color: #4a7cde;
+    margin: 5px;
+    height: 150px;
+
+
+}
+.center{
+
+    display: flex;
+    font-size: 10px;
+}
+.mediubox{
+    background-color: #12418c;
+    margin: 5px;
+    width: 400px;
+    height: 150px;
+
+
+}
+.bottom{
+    background-color: #4a7cde;
+    height: 300px;
+    margin: 5px;
+
+}
