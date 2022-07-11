@@ -1,0 +1,31 @@
+.main{
+    background-color: aqua;
+    margin: auto;
+    min-height:200px ;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.xxx{
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    border-radius: 6px;
+    height: 100px;
+    margin: 20px;
+}
+.design, .develop, .services, .wordpres, .logo, .media{
+
+    background-color: white;
+    height: 100px;
+    margin: 20px;
+
+}
+h3 {
+    color: #e79326;
+}
+
+i{
+    margin: 40px;
+    font-size: 40px;
+}
