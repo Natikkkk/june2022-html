@@ -1,0 +1,50 @@
+.main{
+    display: flex;
+    padding: 30px;
+    justify-content: center;
+    align-items: center;
+
+}
+.card{
+    min-height: 300px;
+    width: 200px;
+    box-sizing: border-box;
+    border: black solid 1px;
+    padding-top: 20px;
+    margin-right: 20px;
+}
+.fa-solid{
+    font-size: 40px;
+    color: grey;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.description > h3{
+    text-align: center;
+    color: #e79326;
+}
+.description{
+
+}
+.description > p{
+    box-sizing: border-box;
+    text-align: justify;
+    padding: 10px;
+}
+.button-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    background-color: #aed7ae;
+    width: 100px;
+    height: 35px;
+    border: none;
+}
+h1{
+    text-align: center;
+}
