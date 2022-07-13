@@ -1,0 +1,66 @@
+.container{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    position: relative;
+
+}
+.pos{
+    margin-left: 43%;
+}
+.posi{
+    margin-right: 43%;
+}
+.icon{
+    color: #2f2e2e;
+    font-size: 35px;
+    top:50px
+}
+.circle{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    background-color: white;
+    top:20px;
+    position: absolute;
+    border: black solid 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    color: grey;
+    text-align: center;
+    padding: 15px;
+    line-height: 25px;
+
+}
+.description > h3{
+    text-align: center;
+    align-items: center;
+    color: black;
+    padding-top: 40px;
+}
+
+.block{
+    margin: 10px;
+    border: black solid 1px;
+    width: 250px;
+
+}
+input{
+    margin-left: 70px;
+    margin-bottom: 30px;
+    border: black solid 1px;
+    background-color: white;
+    padding: 10px;
+}
+.box >p{
+    text-align: center;
+    align-items: center;
+    color: black;
+    font-size: 20px;
+}
